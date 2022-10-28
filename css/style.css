@@ -1,0 +1,55 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+}
+
+.container {
+    /* background-color: hsl(225, 100%, 98%); */
+    background-color: white;
+    border-radius: 20px;
+    max-width: 375px;
+    margin: auto;
+}
+
+.image {
+    height: 183px;
+    background-image: url(../images/illustration-hero.svg);
+    background-size:contain;
+    border-radius: 20px 20px 0 0 ;
+    background-repeat: no-repeat;
+    margin-bottom: 2rem;
+}
+
+.text-area {
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+    padding: 0 2em;
+}
+
+h1 {
+    color: hsl(223, 47%, 23%);
+}
+
+p {
+    color: hsl(224, 23%, 55%);
+    line-height: 1.5em;
+}
+
+.pricing {
+    border-radius: 10px;
+    background-color: hsl(225, 100%, 98%);
+    margin: 1.5em;
+}
+
+img {
+    background-color: ;
+    /* border: solid red 1px; */
+}
+
+/* Attribution */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
