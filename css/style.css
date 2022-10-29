@@ -60,6 +60,27 @@ h4 {
     padding: 1em 0;
 }
 
+button {
+    background-color: hsl(245, 75%, 52%);
+    border-radius: 10px;
+    color: hsl(225, 100%, 98%);
+    font-weight: 700;
+    margin: 0 2em;
+    padding: 1.2em 7.1em;
+    box-shadow: 0 .5em 65px hsl(224, 23%, 55%);
+}
+
+.cancel {
+    font-weight: 700;
+    padding: 2em 8.5em;
+    /* padding-bottom: 2em; */
+    text-decoration: none;
+}
+
+.cancel-order {
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+}
 
 /* Attribution */
 .attribution {

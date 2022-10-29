@@ -51,6 +51,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 -Edited fonts in text area (h1 and p)
 -Edited pricing area background
 -Added music-icon, h4, price-per-year, price-change, and formating
+-Added payment button, filled color, padding and fonts
+-Created a div to contain an anchor tag to cancel order.
+
 
 ### Built with
 
