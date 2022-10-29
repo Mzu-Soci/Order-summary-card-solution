@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Mzu-Soci/Order-summary-card-solution.git](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -50,7 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 -Added and edited the image
 -Edited fonts in text area (h1 and p)
 -Edited pricing area background
--Added music-icon
+-Added music-icon, h4, price-per-year, price-change, and formating
 
 ### Built with
 
