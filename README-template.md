@@ -53,7 +53,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 -Added music-icon, h4, price-per-year, price-change, and formating
 -Added payment button, filled color, padding and fonts
 -Created a div to contain an anchor tag to cancel order.
-
+-Added active states
+-Added mobile media queries
+-Added desktop media queries
 
 ### Built with
 
